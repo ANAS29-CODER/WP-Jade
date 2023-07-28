@@ -1,0 +1,144 @@
+Log created: 2023-04-11 11:10:54
+Type: backup
+[2023-04-11 11:10:56][notice]Start backing up.
+[2023-04-11 11:10:56][notice]server info fcgi:On max execution time: 180 wp version:6.2 php version:7.4.33 db version:8.0.30 php ini:safe_mode: memory_limit:256M memory_get_usage:94.18 MB memory_get_peak_usage:95.96 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-04-11 11:10:56][notice]Prepare to backup backup_db files.
+[2023-04-11 11:10:56][notice]Start exporting database.
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_mainwp_wpvivid_global
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_mainwp_wpvivid
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_mainwp_wpvividmeta
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_nextend2_smartslider3_generators
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_translation_batches
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_locale_map
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_node
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_reminders
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_mainwp_wpvivid_global_options
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_nextend2_smartslider3_sliders_xref
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_links
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_translation_status
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_translate_job
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_translate
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_term_relationships
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_string_translations
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_string_status
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_nextend2_image_storage
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_flags
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_core_status
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_content_status
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_e_events
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_icl_string_positions
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_term_taxonomy
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_commentmeta
+[2023-04-11 11:10:56][notice]Preparing to dump table wp_termmeta
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_icl_message_status
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_usermeta
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_icl_languages
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_terms
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_users
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_nextend2_smartslider3_sliders
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_nextend2_section_storage
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_icl_translations
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_comments
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_icl_strings
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_nextend2_smartslider3_slides
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_icl_languages_translations
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_posts
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_postmeta
+[2023-04-11 11:10:57][notice]Preparing to dump table wp_options
+[2023-04-11 11:10:57][notice]Exporting database finished.
+[2023-04-11 11:10:57][notice]Start compressing database
+[2023-04-11 11:10:57][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_db.sql
+[2023-04-11 11:10:57][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_db.part001.zip, filesize: 696.24 KB
+[2023-04-11 11:10:57][notice]Compressing database completed
+[2023-04-11 11:10:57][notice]Backing up backup_db completed.
+[2023-04-11 11:10:57][notice]Prepare to backup backup_themes files.
+[2023-04-11 11:10:57][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_themes.part001.zip index:500
+[2023-04-11 11:10:59][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_themes.part001.zip success. index:500 file size:23.89 MB
+[2023-04-11 11:10:59][notice]Backing up backup_themes completed.
+[2023-04-11 11:10:59][notice]Prepare to backup backup_plugin files.
+[2023-04-11 11:11:03][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:500
+[2023-04-11 11:11:04][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:500 file size:1.67 MB
+[2023-04-11 11:11:04][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:1000
+[2023-04-11 11:11:04][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:1000 file size:2.74 MB
+[2023-04-11 11:11:04][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:1500
+[2023-04-11 11:11:06][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:1500 file size:6.52 MB
+[2023-04-11 11:11:06][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:2000
+[2023-04-11 11:11:08][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:2000 file size:10.26 MB
+[2023-04-11 11:11:08][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:2500
+[2023-04-11 11:11:09][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:2500 file size:12.53 MB
+[2023-04-11 11:11:09][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:3000
+[2023-04-11 11:11:10][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:3000 file size:14.49 MB
+[2023-04-11 11:11:10][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:3500
+[2023-04-11 11:11:12][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:3500 file size:16.30 MB
+[2023-04-11 11:11:12][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:4000
+[2023-04-11 11:11:16][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:4000 file size:21.80 MB
+[2023-04-11 11:11:16][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:4500
+[2023-04-11 11:11:18][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:4500 file size:25.40 MB
+[2023-04-11 11:11:18][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:5000
+[2023-04-11 11:11:19][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:5000 file size:26.39 MB
+[2023-04-11 11:11:19][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:5500
+[2023-04-11 11:11:20][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:5500 file size:26.90 MB
+[2023-04-11 11:11:20][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:6000
+[2023-04-11 11:11:21][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:6000 file size:27.39 MB
+[2023-04-11 11:11:21][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:6500
+[2023-04-11 11:11:23][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:6500 file size:32.94 MB
+[2023-04-11 11:11:23][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:7000
+[2023-04-11 11:11:24][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:7000 file size:33.52 MB
+[2023-04-11 11:11:24][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:7500
+[2023-04-11 11:11:25][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:7500 file size:35.84 MB
+[2023-04-11 11:11:25][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:8000
+[2023-04-11 11:11:27][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:8000 file size:36.16 MB
+[2023-04-11 11:11:27][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:8500
+[2023-04-11 11:11:29][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:8500 file size:36.97 MB
+[2023-04-11 11:11:29][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:9000
+[2023-04-11 11:11:32][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:9000 file size:37.56 MB
+[2023-04-11 11:11:32][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:9500
+[2023-04-11 11:11:34][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:9500 file size:38.80 MB
+[2023-04-11 11:11:34][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:10000
+[2023-04-11 11:11:38][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:10000 file size:40.08 MB
+[2023-04-11 11:11:38][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:10500
+[2023-04-11 11:11:39][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:10500 file size:42.08 MB
+[2023-04-11 11:11:39][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:11000
+[2023-04-11 11:11:41][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:11000 file size:43.09 MB
+[2023-04-11 11:11:41][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:11500
+[2023-04-11 11:11:43][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:11500 file size:44.34 MB
+[2023-04-11 11:11:43][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip index:12000
+[2023-04-11 11:11:44][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.part001.zip success. index:12000 file size:45.51 MB
+[2023-04-11 11:11:46][notice]Backing up backup_plugin completed.
+[2023-04-11 11:11:46][notice]Prepare to backup backup_uploads files.
+[2023-04-11 11:11:46][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_uploads.part001.zip index:500
+[2023-04-11 11:11:48][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_uploads.part001.zip success. index:500 file size:22.75 MB
+[2023-04-11 11:11:49][notice]Backing up backup_uploads completed.
+[2023-04-11 11:11:49][notice]Prepare to backup backup_content files.
+[2023-04-11 11:11:49][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_content.part001.zip index:500
+[2023-04-11 11:11:49][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_content.part001.zip success. index:500 file size:144.00 B
+[2023-04-11 11:11:49][notice]Backing up backup_content completed.
+[2023-04-11 11:11:49][notice]Prepare to backup backup_core files.
+[2023-04-11 11:11:50][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:500
+[2023-04-11 11:11:52][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:500 file size:2.23 MB
+[2023-04-11 11:11:52][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:1000
+[2023-04-11 11:11:52][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:1000 file size:2.74 MB
+[2023-04-11 11:11:52][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:1500
+[2023-04-11 11:11:53][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:1500 file size:4.16 MB
+[2023-04-11 11:11:53][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:2000
+[2023-04-11 11:11:57][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:2000 file size:9.59 MB
+[2023-04-11 11:11:57][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:2500
+[2023-04-11 11:11:58][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:2500 file size:12.46 MB
+[2023-04-11 11:11:58][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip index:3000
+[2023-04-11 11:11:59][notice]Compressing zip file:localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.part001.zip success. index:3000 file size:12.70 MB
+[2023-04-11 11:11:59][notice]Backing up backup_core completed.
+[2023-04-11 11:11:59][notice]Prepare to backup backup_merge files.
+[2023-04-11 11:11:59][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_db.zip
+[2023-04-11 11:11:59][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 684.59 KB
+[2023-04-11 11:11:59][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_themes.zip
+[2023-04-11 11:12:00][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 24.46 MB
+[2023-04-11 11:12:00][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_plugin.zip
+[2023-04-11 11:12:02][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 67.13 MB
+[2023-04-11 11:12:02][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_uploads.zip
+[2023-04-11 11:12:03][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 89.87 MB
+[2023-04-11 11:12:03][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_content.zip
+[2023-04-11 11:12:03][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 89.87 MB
+[2023-04-11 11:12:03][notice]Prepare to zip file. file: localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_core.zip
+[2023-04-11 11:12:06][notice]Adding zip files completed.localhost_new%20jade_wpvivid-6435403e8dffa_2023-04-11-11-10_backup_all.part001.zip, filesize: 102.20 MB
+[2023-04-11 11:12:07][notice]Backing up backup_merge completed.
+[2023-04-11 11:12:08][notice]Backup completed.
